@@ -2,7 +2,7 @@ This a flutter Notification app made using flutter_core and flutter_messaging de
 App has following functionality:
 1.     Foreground notification with dialog
 2.     Notification in Background (app opened from notification tap)
-3.     Notification in Terminated state
+3.     Notification in Terminated state  i.e. app is fully closed (not running in background), and we  still receive/show notifications
 
 Attached the screenshot of working of Firebase app :
 
