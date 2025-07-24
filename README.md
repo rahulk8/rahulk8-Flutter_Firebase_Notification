@@ -1,3 +1,5 @@
+This app would not have been possible without help from this tutorial : https://www.youtube.com/watch?v=JtHUMWfBxRk
+
 This a flutter Notification app made using flutter_core and flutter_messaging dependency from pub.dev.
 App has following functionality:
 1.     Foreground notification with dialog
